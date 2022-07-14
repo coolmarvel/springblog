@@ -10,13 +10,14 @@
 
 ### 디펜던시
 
-- Spring boot
+- Spring boot(Gradle)
 - Thymeleaf
-- MariaDB
+- MySQL
 - Lombok
 - Spring Security
 - Spring web
 - JPA
+- dev tools
 
 
 
